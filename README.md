@@ -1,8 +1,5 @@
 # Darkwaita
-A darker version of the default Adwaita gnome-shell theme for Gnome 48. This is *ONLY* the gnome-shell theme.
-
-> [!NOTE]  
-> Updated for Gnome 48 Bengaluru 🎉
+A darker version of the default Adwaita gnome-shell theme for Gnome 48/49. This is *ONLY* the gnome-shell theme.
 
 This was created by adding an offset to some of the gray colors in the original theme. Absolutely nothing else has been modified. The `gnome-shell` folder contains the modified theme (`gnome-shell.css`) and the unmodified theme (`gnome-shell.css.original`) which can easily be compared to see what has been changed.
 
